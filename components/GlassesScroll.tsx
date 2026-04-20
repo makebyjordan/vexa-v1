@@ -8,7 +8,7 @@ const TOTAL_FRAMES = 192; // Based on local files 00001.png -> 00192.png
 // Utility to generate image paths
 const getImagePath = (index: number) => {
   const paddedIndex = String(index).padStart(5, '0');
-  return `/secuencia gafas/${paddedIndex}.png`;
+  return `/secuencia gafas/${paddedIndex}.jpg`;
 };
 
 export default function GlassesScroll() {
