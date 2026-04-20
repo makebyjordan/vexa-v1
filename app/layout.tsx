@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "VEXA | The Future, Assembled",
+  title: "VEXA | GAFAS IA",
   description: "High-end AI Glasses",
 };
 
